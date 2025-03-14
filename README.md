@@ -1,6 +1,6 @@
 ## Tom Page
 
-[Communication and Consultant Skills](#Communication and Consultant Skills) | [Experience](#experience) | [Education](#education) | [Projects](https://github.com/twp88) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1) | [Blog](https://medium.com/@88pwt) | [Blurb](#blurb)
+[Communication and Consultant Skills](#communication-and-consultant-skills) | [Experience](#experience) | [Education](#education) | [Projects](https://github.com/t-page) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1) | [Blog](https://medium.com/@88pwt) | [Blurb](#blurb)
 
 #### Senior Developer
 
