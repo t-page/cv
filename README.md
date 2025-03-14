@@ -1,6 +1,6 @@
 ## Tom Page
 
-[Communication and Consultant Skills](#communication-and-consultant-skills) | [Experience](#experience) | [Education](#education) | [Projects](https://github.com/t-page) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1) | [Blog](https://medium.com/@88pwt) | [Blurb](#blurb)
+[Communication and Consultant Skills](#communication-and-consultant-skills) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1) | [Blog](https://medium.com/@88pwt) | [Blurb](#blurb)
 
 #### Senior Developer
 
@@ -25,7 +25,7 @@ The common thread throughout all the jobs that I've done, and for all the client
 
 + As a mentor for several colleagues in the past who wished to upskill, communication has always been fundamental. I have always enjoyed trying to help colleagues understand new concepts, and embrace the challenge of finding new ways to impart knowledge in an easily digestable manner.
 
-+ I have also been in positions in the past where I have been able to influence clients that I have worked for in terms of their ways of working, or implementation methods. This has often required a communicative process in order persuade clients to try something new or different.  
++ I have also been in positions in the past where I have been able to influence clients that I have worked for in terms of their ways of working, or implementation methods. This has often required a communicative process in order to persuade clients to try something new or different.  
 
 + Working directly with colleagues and team members for long hours during the course of the day, often pair programming, requires the ability to communicate clearly. Often there are occasions when one can disagree with ones colleague over implementation details. It is important to be able to communicate these disagreements in a constructive way, while remembering that at the end of the day "it's just code".
 
@@ -84,7 +84,7 @@ The common thread throughout all the jobs that I've done, and for all the client
 
 - Three examples of big life achievements are;
 
-    - Living, working and travelling around New Zealand and Australia for one and a half years.
+    - Living, working and travelling abroad for most of my adult life.
 
     - Becoming a fluent Spanish and Catalan speaker.
 
